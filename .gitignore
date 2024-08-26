@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignorar o arquivo .env com variáveis de ambiente sensíveis
+.env
+
+# Ignorar diretórios de compilação e binários
+/target/
+/bin/
+
+# Ignorar arquivos e diretórios de IDEs
+.idea/
+*.iml
+*.class
